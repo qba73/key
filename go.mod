@@ -1,3 +1,3 @@
 module github.com/qba73/key
 
-go 1.22.0
+go 1.22.1
